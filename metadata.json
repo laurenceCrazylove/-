@@ -1,0 +1,7 @@
+{
+  "name": "ZenSpace Organizer",
+  "description": "A smart home organization tool powered by Gemini to help you track items, manage storage, and declutter with AI assistance.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
